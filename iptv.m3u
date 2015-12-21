@@ -1,0 +1,322 @@
+#EXTM3U
+#EXTINF:0,Кинорейс 1
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/101/index.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/102/index.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/103/index.m3u8
+#EXTINF:0,ТНТ-Comedy
+#EXTGRP:развлекательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/104/index.m3u8
+#EXTINF:0,STV
+#EXTGRP:развлекательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/105/index.m3u8
+#EXTINF:0,РБК-ТВ
+#EXTGRP:новости
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/106/index.m3u8
+#EXTINF:0,СПОРТ ПЛЮС
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/107/index.m3u8
+#EXTINF:0,Tiji TV
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/108/index.m3u8
+#EXTINF:0,Gulli
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/109/index.m3u8
+#EXTINF:0,Кинорейс 2
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/110/index.m3u8
+#EXTINF:0,История
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/111/index.m3u8
+#EXTINF:0,Пятый Канал
+#EXTGRP:новости
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/112/index.m3u8
+#EXTINF:0,Мир
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/113/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/114/index.m3u8
+#EXTINF:0,Европа Плюс
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/115/index.m3u8
+#EXTINF:0,МУЗ
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/116/index.m3u8
+#EXTINF:0,Моя Планета
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/117/index.m3u8
+#EXTINF:0,Наука 2.0
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/118/index.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/119/index.m3u8
+#EXTINF:0,RUSONG TV
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/120/index.m3u8
+#EXTINF:0,Сов. Секретно
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/121/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/502/index.m3u8
+#EXTINF:0,Пятница
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/503/index.m3u8
+#EXTINF:0,Телеканал «Россия»
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/504/index.m3u8
+#EXTINF:0,Россия-Культура
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/505/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/506/index.m3u8
+#EXTINF:0,Россия-24
+#EXTGRP:новости
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/507/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/508/index.m3u8
+#EXTINF:0,КИНОСОЮЗ
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/509/index.m3u8
+#EXTINF:0,Bridge TV
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/122/index.m3u8
+#EXTINF:0,НТВ-ПЛЮС Спорт
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/123/index.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/124/index.m3u8
+#EXTINF:0,Премьера
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/125/index.m3u8
+#EXTINF:0,Наше Кино
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/126/index.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/127/index.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/128/index.m3u8
+#EXTINF:0,Первый HD
+#EXTGRP:HD
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/204/index.m3u8
+#EXTINF:0,TV1000 Premium HD
+#EXTGRP:HD
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/202/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/516/index.m3u8
+#EXTINF:0,Наш футбол
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/531/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/541/index.m3u8
+#EXTINF:0,Disney
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/524/index.m3u8
+#EXTINF:0,Amedia 2
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/510/index.m3u8
+#EXTINF:0,24 ДОК
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/512/index.m3u8
+#EXTINF:0,Перец
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/513/index.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/514/index.m3u8
+#EXTINF:0,ТНВ-Планета
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/515/index.m3u8
+#EXTINF:0,Наше новое кино
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/517/index.m3u8
+#EXTINF:0,KHL
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/519/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/520/index.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 3
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/522/index.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:новости
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/523/index.m3u8
+#EXTINF:0,TV XXI
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/525/index.m3u8
+#EXTINF:0,Эгоист
+#EXTGRP:взрослые
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/526/index.m3u8
+#EXTINF:0,Playboy
+#EXTGRP:взрослые
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/527/index.m3u8
+#EXTINF:0,Телеканал Да Винчи
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/537/index.m3u8
+#EXTINF:0,Авто 24
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/538/index.m3u8
+#EXTINF:0,Eurosport 2
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/539/index.m3u8
+#EXTINF:0,CBS Drama
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/542/index.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/543/index.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/544/index.m3u8
+#EXTINF:0,НТВ Теннис
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/528/index.m3u8
+#EXTINF:0,НТВ Баскетбол
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/529/index.m3u8
+#EXTINF:0,НТВ Футбол 2
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/530/index.m3u8
+#EXTINF:0,Ю ТВ
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/534/index.m3u8
+#EXTINF:0,Россия 2
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/535/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/133/index.m3u8
+#EXTINF:0,nat geographic
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/134/index.m3u8
+#EXTINF:0,Discovery World
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/135/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/136/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/137/index.m3u8
+#EXTINF:0,Jim Jam
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/138/index.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/139/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/140/index.m3u8
+#EXTINF:0,Eurosport
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/141/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/142/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/143/index.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/144/index.m3u8
+#EXTINF:0,Комедия
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/145/index.m3u8
+#EXTINF:0,Индия ТВ
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/146/index.m3u8
+#EXTINF:0,Русская Ночь
+#EXTGRP:взрослые
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/147/index.m3u8
+#EXTINF:0,Много ТВ
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/148/index.m3u8
+#EXTINF:0,Интересное ТВ
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/149/index.m3u8
+#EXTINF:0,Боец
+#EXTGRP:спорт
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/150/index.m3u8
+#EXTINF:0,Авто Плюс
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/151/index.m3u8
+#EXTINF:0,Кухня ТВ
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/152/index.m3u8
+#EXTINF:0,РТР Планета
+#EXTGRP:другие
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/546/index.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/547/index.m3u8
+#EXTINF:0,Иллюзион +
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/548/index.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/549/index.m3u8
+#EXTINF:0,Fox Russia
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/550/index.m3u8
+#EXTINF:0,Время
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/552/index.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/553/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/153/index.m3u8
+#EXTINF:0,Дом Кино
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/154/index.m3u8
+#EXTINF:0,Музыка
+#EXTGRP:музыка
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/155/index.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:детские
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/156/index.m3u8
+#EXTINF:0,Paramount Comedy Russia
+#EXTGRP:развлекательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/157/index.m3u8
+#EXTINF:0,Домашние Животные
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/158/index.m3u8
+#EXTINF:0,Охота и Рыбалка
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/159/index.m3u8
+#EXTINF:0,Amedia 1
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/554/index.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:кино
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/555/index.m3u8
+#EXTINF:0,TV1000 Comedy HD
+#EXTGRP:HD
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/200/index.m3u8
+#EXTINF:0,TV1000 Megahit HD
+#EXTGRP:HD
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/201/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:HD
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/203/index.m3u8
+#EXTINF:0,Россия HD
+#EXTGRP:HD
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/205/index.m3u8
+#EXTINF:0,Надежда
+#EXTGRP:познавательные
+http://en356.edem.tv/iptv/CAMMXDEQMP3GFP/556/index.m3u8
